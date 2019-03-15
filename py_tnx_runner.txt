@@ -1,9 +1,0 @@
-PY_TNX_RUNNER
-
-Order #35817281 by internal
-
-Order #35819367  by control
-
-sudo -u ims -s /bin/bash
-cd /home/ims-test/stable/ims_v3/Bin/Workflow
-
